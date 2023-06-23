@@ -82,9 +82,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
  - Click "Post Reply".
 
 <img src="https://i.imgur.com/qSKDXDR.png.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-
- - Like a virtual chat or messaging system, your message will be sent and posted on the thread. The thread will constantly be updated with conversations back and forth, or status changes while working on the issue at-hand.
 
 4)Resolution
 
@@ -92,18 +89,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
    - Under Post Reply, type in a random message stating a final update of the matter.
    - Change the Ticket Status to "Resolved".
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/i1KZGFd.png.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
 
  - Once a ticket is resolved, it is considered "closed", so it will disappear from the Open Tickets page.
 You can find it under the "Closed" tab, where you can see how many was closed at a certain time frame.
 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sdPg401.png.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
  - Continue to go through the rest of the remaining tickets and use best judgement on their Priorty, assignment to departments and teams, etc.
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dFPAOsF.png.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
           !!!! COMPLETE !!!!
 
